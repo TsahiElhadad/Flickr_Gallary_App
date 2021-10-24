@@ -9,6 +9,6 @@
  * Number of views
  
  <p align="center">
-  <img src="Main_Activity_img.jpeg" width = "300" height="500"/> 
- <img src="Second_Activity_img.jpeg" width = "300" height="500"/> 
+  <img src="Main_Activity_img.png" width = "300" height="500"/> 
+ <img src="Second_Activity_img.png" width = "300" height="500"/> 
 </p>
