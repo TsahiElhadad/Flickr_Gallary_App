@@ -6,7 +6,7 @@
  * Title
  * Owner
  * Description
- * Number of views
+ * Date upload
  
  <p align="center">
   <img src="Main_Activity_img.png" width = "300" height="500"/> 
